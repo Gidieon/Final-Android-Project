@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="email_id">Email ID</string>
+    <string name="log_in">LOG IN</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="enter_your_email_address">Enter your Email address</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="create_account">Create Account</string>
+    <string name="back_to_login">Back to LOGIN</string>
+    <string name="username">Username</string>
+    <string name="write_your_answer">Write your answer</string>
+    <string name="submit">Submit</string>
+    <string name="score">Score:</string>
+    <string name="question_no">Question No:</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+    <string name="sample_text">1 + 2 = ?</string>
+</resources>
